@@ -7,6 +7,7 @@ namespace TestApiProject1
         public Class1()
         {
             Console.WriteLine("MASTER");
+            Console.WriteLine("test");
         }
     }
 }
